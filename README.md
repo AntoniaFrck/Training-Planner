@@ -34,9 +34,13 @@ Arkusz zawiera następujące kolumny:
 - **Intensywność**   
 - **Status ukończenia**
 
+
+<img src="img/tabela_tr.png" width="300"/>
 ---
 
 ## Funkcjonalności aplikacji
+
+
 
 ### Widok treningów (kafelki)
 - Lista treningów w formie czytelnych kart
@@ -45,6 +49,8 @@ Arkusz zawiera następujące kolumny:
 
 <img src="img/Training-Planner_view1.png" width="300"/>
 
+
+
 ### Szczegóły treningu
 - Kliknięcie w kafelek otwiera widok szczegółowy
 - Wyświetlane są wszystkie dane treningu:
@@ -52,14 +58,20 @@ Arkusz zawiera następujące kolumny:
   - dystans / czas
   - szczegóły treningu
   - intensywność
+    
 <img src="img/Training-Planner_view2.png" width="300"/>
+
+
 
 ### Oznaczanie ukończenia
 - Możliwość zaznaczenia treningu jako wykonanego
 - Ukończony trening jest:
   - przekreślony
   - wizualnie oznaczony w liście
+    
 <img src="img/Training-Planner_view3.png" width="300"/>
+
+
 
 ### Dodawanie treningu
 - Formularz do dodawania nowych aktywności
@@ -70,7 +82,10 @@ Arkusz zawiera następujące kolumny:
   - tempo
   - szczegóły
 - Dane zapisywane bezpośrednio do Google Sheets
+  
 <img src="img/Training-Planner_view4.png" width="300"/>
+
+
 
 ### Widok kalendarza
 - Miesięczny widok treningów
@@ -80,9 +95,13 @@ Arkusz zawiera następujące kolumny:
   - 🟡 Niska
   - 🟢 Luz
 - Szybki przegląd obciążenia treningowego
+  
 <img src="img/Training-Planner_view5.png" width="300"/>
 
+
+
 ---
+
 
 ## Zastosowanie
 
