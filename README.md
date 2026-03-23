@@ -34,8 +34,7 @@ Arkusz zawiera następujące kolumny:
 - **Intensywność**   
 - **Status ukończenia**
 
-
-<img src="img/tabela_tr.png" width="300"/>
+  <img src="img/tabela_tr.png" width="300"/>
 ---
 
 ## Funkcjonalności aplikacji
